@@ -1,18 +1,11 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
+## Bringing Families Closer, One Activity at a Time  
 
-**Here are some ideas to get you started:**
+We are on a mission to help families spend more quality time together through shared experiences. Our **event-finding app** makes it easy to discover activities that everyone in the family can enjoy.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Match on activities** – Learn what your family members like and find common ground effortlessly.  
+- **Plan together** – Organize your next family outing with a seamless scheduling system.  
+- **Book with ease** – Purchase tickets directly within the app, so you can focus on making memories.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+With everything in **one place**, from discovery to booking, we take the hassle out of planning so families can focus on what truly matters—**spending time together**.
